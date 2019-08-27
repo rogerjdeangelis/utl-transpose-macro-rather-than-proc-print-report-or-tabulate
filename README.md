@@ -3,7 +3,7 @@ Transpose macro rather than proc print report or tabulate
     SAS Forum: Transpose macro rather than proc print report or tabulate                                                          
                                                                                                                                   
     SOAPBOX ON                                                                                                                    
-    SAS transpose cannot easily transpose multiple sets of variable.                                                              
+    SAS transpose cannot easily transpose multiple sets of variables.                                                              
     Arts flexible and very fast transpose macro is perfect for this problem.                                                      
     The benefit of the transpose macro is an output dataset structured like the report.                                           
     With Arts macro programmers are much less likely to be paintd into a corner.                                                  
